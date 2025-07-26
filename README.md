@@ -49,6 +49,7 @@ pip install customtkinter psutil
 ```bash
 Comptimizer/
 ├── comptimizer.py       # Main application file
+├── comptimizer.rar       # Comptimizer.rar
 └── README.md            # Project documentation
 ```
 
